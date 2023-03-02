@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# micropython
+.micropython
+.picowgo
+.vscode
