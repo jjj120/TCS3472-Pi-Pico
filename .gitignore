@@ -133,3 +133,6 @@ dmypy.json
 .micropython
 .picowgo
 .vscode
+
+# other
+dn40.pdf
